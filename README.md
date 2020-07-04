@@ -11,11 +11,6 @@ Ecoleta é um projeto **Open Source** desenvolvido na semana **Next Level Week (
 
 O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entidades que coletam resíduos (orgânicos e inorgânicos) às pessoas e/ou entidades que necessitam constantemente descartar esses resíduos. Solucionando um grande problema recorrente que é o descarte inadequado do lixo, facilitando o processo de recliclagem e reutilização.
 
-<!-- 
-  ...
-  Local Reservado para o GIF do projeto rodando.
-  ...
--->
 
 ## **:computer: TECNOLOGIAS**
 
@@ -30,7 +25,6 @@ O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entid
   - **[React Dropzone][react_dropzone]**
 
 
-  \* Veja o arquivo <kbd>[package.json](./sources/website/package.json)</kbd>
 
 #### **Server** ([NodeJS][node] + [TypeScript][typescript])
 
@@ -44,7 +38,6 @@ O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entid
   - **[Celebrate][celebrate]**
   - **[Joi][joi]**
 
-  \* Veja o arquivo <kbd>[package.json](./sources/server/package.json)</kbd>
 
 #### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
 
@@ -58,7 +51,6 @@ O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entid
   - **[Expo Location][expo_location]**
   - **[Expo Mail Composer][expo_mail_composer]**
 
-  \* Veja o arquivo <kbd>[package.json](./sources/mobile/package.json)</kbd>
 
 #### **Utilitários**
 
@@ -77,10 +69,6 @@ O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entid
 ### Configurações Iniciais
 
 Primeiro, você precisa ter o <kbd>[NodeJS](https://nodejs.org/en/download/)</kbd> instalado na sua máquina. 
-
-Se você estiver utilizando o **Linux**, você pode optar por instalar o **Node** através do gerênciador de versões <kbd>[asdf]</kbd> para facilitar o processo de mudança da versão do **Node**, quando for necessário.
-
-Você pode optar também por utilizar o **yarn** no lugar do **npm**. Você pode instalar clicando nesse <kbd>[link][yarn]</kbd>, ou através do <kbd>[asdf]</kbd>.
 
 Após ter o **Node** instalado, instale as dependências do **React e React Native (Expo)** de forma global, utilizando os comandos:
 
@@ -133,7 +121,6 @@ $ npm run knex:migrate
 $ npm run knex:seed
 ```
 
-> Veja a parte de **scripts {}** do arquivo <kbd>[package.json](./sources/server/package.json)</kbd> para saber quais scripts estão disponíveis.
 
 ### Utilizando o Website
 
@@ -212,10 +199,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 - [Node](https://nodejs.org/en/)
 - [Celebrate](https://github.com/arb/celebrate)
 - [Joi](https://hapi.dev/module/joi/)
-
-## **:page_with_curl: LICENÇA**
-
-Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
+ 
 
 <h2 align="center">Feito por <a href="https://github.com/Spinnafre/">Davi Silva</a></h2>
 
