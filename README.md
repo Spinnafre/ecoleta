@@ -5,7 +5,7 @@ Ecoleta é um projeto **Open Source** desenvolvido na semana **Next Level Week (
 
 </h3>
 
-![Banner](https://user-images.githubusercontent.com/38081852/84095189-04178580-a9d5-11ea-9496-9ec6f6a282e5.png)
+![Banner](https://github.com/Spinnafre/ecoleta/blob/master/ecoleta.png)
 
 ## **:rocket: OBJETIVO**
 
