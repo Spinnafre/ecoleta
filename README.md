@@ -1,7 +1,7 @@
 
 <h3 align="center">
 
-Ecoleta é um projeto **Open Source** desenvolvido na semana **Next Level Week (1.0)** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
+Ecoleta é um projeto Open Source desenvolvido na semana **Next Level Week (1.0)** da [Rocketseat][rocketseat_site] utilizando as tecnologias TypeScript, Node, React e React Native.
 
 </h3>
 
@@ -132,7 +132,7 @@ $ npm run start
 
 ### Utilizando o Mobile
 
-Instale o aplicativo <kbd>[Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en)</kbd> no seu smartphone.
+Instale o aplicativo [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en) no seu smartphone.
 
 ```sh
 
@@ -202,8 +202,6 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
  
 
 <h2 align="center">Feito por <a href="https://github.com/Spinnafre/">Davi Silva</a></h2>
-
-<!-- Website Links -->
 
 [rocketseat_site]: https://rocketseat.com.br/
 
